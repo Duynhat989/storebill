@@ -14,7 +14,7 @@
     ],
     "functions": {
       "timeout": {
-        "max": 60
+        "maxDuration": 60
       }
     }
   }
