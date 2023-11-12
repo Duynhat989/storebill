@@ -13,8 +13,6 @@
       }
     ],
     "functions": {
-      "timeout": {
-        "maxDuration": 120
-      }
+      "maxDuration": 120
     }
   }
